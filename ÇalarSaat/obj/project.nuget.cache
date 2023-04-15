@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qxpumxmbaSOM65yNeUHv4Y5D8m9hsltoY9k/qZ+P8r+9JuN3yX1wFTM7WrM4j0t9xS2g0poygKpmJBsv5tZySw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yusuf\\Desktop\\C# Dersleri\\Kaynak_Kodları\\ÇalarSaat\\ÇalarSaat\\ÇalarSaat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yusuf\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\yusuf\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
